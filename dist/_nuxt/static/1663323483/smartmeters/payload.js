@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/smartmeters", {data:[{}],fetch:[],mutations:void 0});

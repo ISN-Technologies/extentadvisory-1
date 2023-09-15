@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/service-mining", {data:[{}],fetch:[],mutations:void 0});
