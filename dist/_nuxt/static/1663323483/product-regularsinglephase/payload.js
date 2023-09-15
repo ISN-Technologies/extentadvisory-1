@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/product-regularsinglephase", {data:[{}],fetch:[],mutations:void 0});
